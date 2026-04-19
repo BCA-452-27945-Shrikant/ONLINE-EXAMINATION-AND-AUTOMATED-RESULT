@@ -1,0 +1,127 @@
+[2026-02-13 05:40:32] Failed login attempt for: admin
+[2026-02-13 05:42:14] Failed login attempt for: admin
+[13-Feb-2026 05:46:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u145349340_exam.questions' doesn't exist in /home/u145349340/domains/exam.bivicash.com/public_html/admin/manage_questions.php:25
+Stack trace:
+#0 /home/u145349340/domains/exam.bivicash.com/public_html/admin/manage_questions.php(25): mysqli->query()
+#1 {main}
+  thrown in /home/u145349340/domains/exam.bivicash.com/public_html/admin/manage_questions.php on line 25
+[13-Feb-2026 06:09:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u145349340_exam.results' doesn't exist in /home/u145349340/domains/exam.bivicash.com/public_html/submit_exam.php:25
+Stack trace:
+#0 /home/u145349340/domains/exam.bivicash.com/public_html/submit_exam.php(25): mysqli->query()
+#1 {main}
+  thrown in /home/u145349340/domains/exam.bivicash.com/public_html/submit_exam.php on line 25
+[13-Feb-2026 06:20:16 UTC] PHP Warning:  Undefined variable $sub in /home/u145349340/domains/exam.bivicash.com/public_html/student_dashboard.php on line 10
+[13-Feb-2026 06:20:16 UTC] PHP Warning:  Trying to access array offset on null in /home/u145349340/domains/exam.bivicash.com/public_html/student_dashboard.php on line 10
+[13-Feb-2026 06:20:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/u145349340/domains/exam.bivicash.com/public_html/student_dashboard.php:14
+Stack trace:
+#0 /home/u145349340/domains/exam.bivicash.com/public_html/student_dashboard.php(14): mysqli->query()
+#1 {main}
+  thrown in /home/u145349340/domains/exam.bivicash.com/public_html/student_dashboard.php on line 14
+[13-Feb-2026 06:22:05 UTC] PHP Warning:  Undefined variable $sub in /home/u145349340/domains/exam.bivicash.com/public_html/student_dashboard.php on line 10
+[13-Feb-2026 06:22:05 UTC] PHP Warning:  Trying to access array offset on null in /home/u145349340/domains/exam.bivicash.com/public_html/student_dashboard.php on line 10
+[13-Feb-2026 06:22:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/u145349340/domains/exam.bivicash.com/public_html/student_dashboard.php:14
+Stack trace:
+#0 /home/u145349340/domains/exam.bivicash.com/public_html/student_dashboard.php(14): mysqli->query()
+#1 {main}
+  thrown in /home/u145349340/domains/exam.bivicash.com/public_html/student_dashboard.php on line 14
+[2026-02-13 12:26:53] Failed universal login: arvind
+[2026-03-07 07:16:25] Failed universal login: br9283990@gmail.com
+[2026-03-07 07:16:39] Failed universal login: Shrikant
+[13-Mar-2026 10:58:20 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'score' in 'SELECT' in /home/u145349340/domains/exam.bivicash.com/public_html/student_dashboard.php:19
+Stack trace:
+#0 /home/u145349340/domains/exam.bivicash.com/public_html/student_dashboard.php(19): mysqli->query()
+#1 {main}
+  thrown in /home/u145349340/domains/exam.bivicash.com/public_html/student_dashboard.php on line 19
+[13-Mar-2026 10:58:22 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'score' in 'SELECT' in /home/u145349340/domains/exam.bivicash.com/public_html/student_dashboard.php:19
+Stack trace:
+#0 /home/u145349340/domains/exam.bivicash.com/public_html/student_dashboard.php(19): mysqli->query()
+#1 {main}
+  thrown in /home/u145349340/domains/exam.bivicash.com/public_html/student_dashboard.php on line 19
+[13-Mar-2026 10:58:24 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'score' in 'SELECT' in /home/u145349340/domains/exam.bivicash.com/public_html/student_dashboard.php:19
+Stack trace:
+#0 /home/u145349340/domains/exam.bivicash.com/public_html/student_dashboard.php(19): mysqli->query()
+#1 {main}
+  thrown in /home/u145349340/domains/exam.bivicash.com/public_html/student_dashboard.php on line 19
+[13-Mar-2026 10:58:26 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'score' in 'SELECT' in /home/u145349340/domains/exam.bivicash.com/public_html/student_dashboard.php:19
+Stack trace:
+#0 /home/u145349340/domains/exam.bivicash.com/public_html/student_dashboard.php(19): mysqli->query()
+#1 {main}
+  thrown in /home/u145349340/domains/exam.bivicash.com/public_html/student_dashboard.php on line 19
+[2026-03-13 11:01:49] Failed universal login: shri@gmail.com
+[18-Mar-2026 18:47:53 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'SELECT' in /home/u145349340/domains/exam.bivicash.com/public_html/admin/manage_questions.php:140
+Stack trace:
+#0 /home/u145349340/domains/exam.bivicash.com/public_html/admin/manage_questions.php(140): mysqli->query()
+#1 {main}
+  thrown in /home/u145349340/domains/exam.bivicash.com/public_html/admin/manage_questions.php on line 140
+[18-Mar-2026 18:48:03 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'SELECT' in /home/u145349340/domains/exam.bivicash.com/public_html/admin/manage_questions.php:140
+Stack trace:
+#0 /home/u145349340/domains/exam.bivicash.com/public_html/admin/manage_questions.php(140): mysqli->query()
+#1 {main}
+  thrown in /home/u145349340/domains/exam.bivicash.com/public_html/admin/manage_questions.php on line 140
+[18-Mar-2026 18:49:18 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'SELECT' in /home/u145349340/domains/exam.bivicash.com/public_html/admin/manage_questions.php:140
+Stack trace:
+#0 /home/u145349340/domains/exam.bivicash.com/public_html/admin/manage_questions.php(140): mysqli->query()
+#1 {main}
+  thrown in /home/u145349340/domains/exam.bivicash.com/public_html/admin/manage_questions.php on line 140
+[18-Mar-2026 18:53:44 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'SELECT' in /home/u145349340/domains/exam.bivicash.com/public_html/admin/manage_questions.php:140
+Stack trace:
+#0 /home/u145349340/domains/exam.bivicash.com/public_html/admin/manage_questions.php(140): mysqli->query()
+#1 {main}
+  thrown in /home/u145349340/domains/exam.bivicash.com/public_html/admin/manage_questions.php on line 140
+[18-Mar-2026 18:53:51 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'SELECT' in /home/u145349340/domains/exam.bivicash.com/public_html/admin/manage_questions.php:140
+Stack trace:
+#0 /home/u145349340/domains/exam.bivicash.com/public_html/admin/manage_questions.php(140): mysqli->query()
+#1 {main}
+  thrown in /home/u145349340/domains/exam.bivicash.com/public_html/admin/manage_questions.php on line 140
+[2026-03-18 18:57:32] Failed universal login: br9283990@gmail.com
+[18-Mar-2026 18:57:58 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'Shrikant@gmail.com' for key 'email' in /home/u145349340/domains/exam.bivicash.com/public_html/register.php:11
+Stack trace:
+#0 /home/u145349340/domains/exam.bivicash.com/public_html/register.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/u145349340/domains/exam.bivicash.com/public_html/register.php on line 11
+[2026-03-18 18:58:07] Failed universal login: br9283990@gmail.com
+[18-Mar-2026 18:58:29 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'Shrikant@gmail.com' for key 'email' in /home/u145349340/domains/exam.bivicash.com/public_html/register.php:11
+Stack trace:
+#0 /home/u145349340/domains/exam.bivicash.com/public_html/register.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/u145349340/domains/exam.bivicash.com/public_html/register.php on line 11
+[18-Mar-2026 18:59:18 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'Shrikant@gmail.com' for key 'email' in /home/u145349340/domains/exam.bivicash.com/public_html/register.php:11
+Stack trace:
+#0 /home/u145349340/domains/exam.bivicash.com/public_html/register.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/u145349340/domains/exam.bivicash.com/public_html/register.php on line 11
+[18-Mar-2026 19:00:02 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'neha@gmail.com' for key 'email' in /home/u145349340/domains/exam.bivicash.com/public_html/register.php:11
+Stack trace:
+#0 /home/u145349340/domains/exam.bivicash.com/public_html/register.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/u145349340/domains/exam.bivicash.com/public_html/register.php on line 11
+[18-Mar-2026 19:01:51 Asia/Kolkata] PHP Warning:  Trying to access array offset on null in /home/u145349340/domains/exam.bivicash.com/public_html/take_exam.php on line 273
+[18-Mar-2026 19:01:51 Asia/Kolkata] PHP Warning:  Trying to access array offset on null in /home/u145349340/domains/exam.bivicash.com/public_html/take_exam.php on line 273
+[18-Mar-2026 19:05:23 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 4 in /home/u145349340/domains/exam.bivicash.com/public_html/print_result.php:5
+Stack trace:
+#0 /home/u145349340/domains/exam.bivicash.com/public_html/print_result.php(5): mysqli->query()
+#1 {main}
+  thrown in /home/u145349340/domains/exam.bivicash.com/public_html/print_result.php on line 5
+[18-Mar-2026 19:05:26 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 4 in /home/u145349340/domains/exam.bivicash.com/public_html/print_result.php:5
+Stack trace:
+#0 /home/u145349340/domains/exam.bivicash.com/public_html/print_result.php(5): mysqli->query()
+#1 {main}
+  thrown in /home/u145349340/domains/exam.bivicash.com/public_html/print_result.php on line 5
+[18-Mar-2026 19:05:27 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 4 in /home/u145349340/domains/exam.bivicash.com/public_html/print_result.php:5
+Stack trace:
+#0 /home/u145349340/domains/exam.bivicash.com/public_html/print_result.php(5): mysqli->query()
+#1 {main}
+  thrown in /home/u145349340/domains/exam.bivicash.com/public_html/print_result.php on line 5
+[2026-03-18 19:09:15] Failed universal login: hima@gmail.com
+[2026-03-25 13:27:35] Failed universal login: br9283990@gmail.com
+[2026-03-25 13:28:08] Failed universal login: br9283990@gmail.com
+[25-Mar-2026 14:22:15 Asia/Kolkata] PHP Warning:  Trying to access array offset on null in /home/u145349340/domains/exam.bivicash.com/public_html/print_result.php on line 13
+[25-Mar-2026 14:22:15 Asia/Kolkata] PHP Warning:  Trying to access array offset on null in /home/u145349340/domains/exam.bivicash.com/public_html/print_result.php on line 26
+[25-Mar-2026 14:22:15 Asia/Kolkata] PHP Warning:  Trying to access array offset on null in /home/u145349340/domains/exam.bivicash.com/public_html/print_result.php on line 28
+[25-Mar-2026 14:22:15 Asia/Kolkata] PHP Warning:  Trying to access array offset on null in /home/u145349340/domains/exam.bivicash.com/public_html/print_result.php on line 31
+[25-Mar-2026 14:22:15 Asia/Kolkata] PHP Warning:  Trying to access array offset on null in /home/u145349340/domains/exam.bivicash.com/public_html/print_result.php on line 32
+[13-Apr-2026 15:39:54 Asia/Kolkata] PHP Warning:  Trying to access array offset on null in /home/u145349340/domains/exam.bivicash.com/public_html/print_result.php on line 13
+[13-Apr-2026 15:39:54 Asia/Kolkata] PHP Warning:  Trying to access array offset on null in /home/u145349340/domains/exam.bivicash.com/public_html/print_result.php on line 26
+[13-Apr-2026 15:39:54 Asia/Kolkata] PHP Warning:  Trying to access array offset on null in /home/u145349340/domains/exam.bivicash.com/public_html/print_result.php on line 28
+[13-Apr-2026 15:39:54 Asia/Kolkata] PHP Warning:  Trying to access array offset on null in /home/u145349340/domains/exam.bivicash.com/public_html/print_result.php on line 31
+[13-Apr-2026 15:39:54 Asia/Kolkata] PHP Warning:  Trying to access array offset on null in /home/u145349340/domains/exam.bivicash.com/public_html/print_result.php on line 32
